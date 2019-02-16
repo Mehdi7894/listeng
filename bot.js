@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client(); 
 client.on("ready", () => {
-  client.user.setActivity("بيع بوتات لشراء تواصل معاي", {type:'PLAYING'});
+  client.user.setActivity("ماني موجود", {type:'PLAYING'});
 
     });
 
